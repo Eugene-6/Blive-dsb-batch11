@@ -18,10 +18,20 @@ Data Science Bootcamp Projects ![space](https://cdn.esawebb.org/archives/images/
 + b
 * b
 
+i love 'R programming'. (in line code)
 
+## Code Block
+`ปุ่มเปลี่ยนภาษา
 
+```python
+print("hello world")
+```
 
+##code
 
+```sql
+SELECT "hello world" FROM bootcamp;
+```
 
 
 [visit google](www.google.com)
