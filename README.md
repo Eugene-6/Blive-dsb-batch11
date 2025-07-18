@@ -9,7 +9,7 @@ Data Science Bootcamp Projects ![space](https://cdn.esawebb.org/archives/images/
 - Statistics
 - Machine Learning
 - Website with WordPress
-- Python for Data Analyst
+- Python for Data Analystห
 - Dashboard
 
 *b*
